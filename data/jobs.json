@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "We need someone skilled in React, JavaScript, and CSS.",
+    "experienceLevel": "Junior",
+    "salaryRange": "5-10 LPA",
+    "location": "Bangalore, India",
+    "remote": true,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-20",
+    "company": "TechNova Pvt Ltd"
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "description": "Experience with Node.js, Express, and MongoDB required.",
+    "experienceLevel": "Senior",
+    "salaryRange": "10-18 LPA",
+    "location": "Pune, India",
+    "remote": false,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-19",
+    "company": "CodeWorks Solutions"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "description": "Looking for a developer comfortable with React, Node.js, and PostgreSQL.",
+    "experienceLevel": "Mid-level",
+    "salaryRange": "8-15 LPA",
+    "location": "Hyderabad, India",
+    "remote": true,
+    "employmentType": "Contract",
+    "postedDate": "2025-08-15",
+    "company": "NextGen Labs"
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "description": "Expertise in Python, Pandas, NumPy, and machine learning frameworks like TensorFlow or PyTorch.",
+    "experienceLevel": "Senior",
+    "salaryRange": "15-25 LPA",
+    "location": "Remote",
+    "remote": true,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-18",
+    "company": "AI Vision Analytics"
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Developer",
+    "description": "Must have experience in building apps using React Native and TypeScript.",
+    "experienceLevel": "Junior",
+    "salaryRange": "6-12 LPA",
+    "location": "Delhi, India",
+    "remote": false,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-17",
+    "company": "MobileTech Innovations"
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "description": "Knowledge of Docker, Kubernetes, AWS, and CI/CD pipelines is required.",
+    "experienceLevel": "Mid-level",
+    "salaryRange": "12-20 LPA",
+    "location": "Mumbai, India",
+    "remote": true,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-16",
+    "company": "CloudOps Systems"
+  },
+  {
+    "id": 7,
+    "title": "QA Automation Engineer",
+    "description": "Familiarity with Selenium, Cypress, and JavaScript testing frameworks like Jest.",
+    "experienceLevel": "Junior",
+    "salaryRange": "4-8 LPA",
+    "location": "Chennai, India",
+    "remote": false,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-14",
+    "company": "QualityFirst Solutions"
+  },
+  {
+    "id": 8,
+    "title": "UI/UX Designer",
+    "description": "Strong skills in Figma, Adobe XD, and prototyping workflows. Knowledge of CSS is a plus.",
+    "experienceLevel": "Junior",
+    "salaryRange": "5-10 LPA",
+    "location": "Remote",
+    "remote": true,
+    "employmentType": "Part-time",
+    "postedDate": "2025-08-13",
+    "company": "DesignHive Studio"
+  },
+  {
+    "id": 9,
+    "title": "Machine Learning Engineer",
+    "description": "Hands-on experience with Python, Scikit-learn, TensorFlow, and data pipelines.",
+    "experienceLevel": "Senior",
+    "salaryRange": "15-28 LPA",
+    "location": "Bangalore, India",
+    "remote": true,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-12",
+    "company": "DataFuture AI"
+  },
+  {
+    "id": 10,
+    "title": "Cloud Solutions Architect",
+    "description": "Proficient in designing scalable solutions on AWS, Azure, or Google Cloud Platform.",
+    "experienceLevel": "Senior",
+    "salaryRange": "20-35 LPA",
+    "location": "Remote",
+    "remote": true,
+    "employmentType": "Full-time",
+    "postedDate": "2025-08-10",
+    "company": "CloudMasters Inc"
+  }
+]
