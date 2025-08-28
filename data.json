@@ -1,0 +1,16 @@
+[
+  { 
+    "name": "strot",
+   "email": "strotjain11@gmail.com",
+    "role": "Intern" 
+},
+  {
+     "name": "stuti",
+   "email": "stutijain11@gmail.com",
+    "role": "doctor" 
+},
+  { "name": "User3",
+   "email": "Userjain11@gmail.com",
+    "role": "Admin" 
+}
+]
